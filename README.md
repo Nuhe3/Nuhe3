@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nuhić Vedad
-- 👀 I’m interested in JAVA, OOP
 - 🌱 I’m currently studying at Faculty of Information Tehnologies
 - 📫 How to reach me vedad.nuhic@edu.fit.ba
 
